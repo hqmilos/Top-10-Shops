@@ -1,0 +1,5 @@
+{
+  "name": "Sales Priority Dashboard",
+  "description": "A top 10 dynamic dashboard of brick-and-mortar stores with priority scores.",
+  "requestFramePermissions": []
+}
